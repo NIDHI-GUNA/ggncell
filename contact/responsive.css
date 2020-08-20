@@ -355,3 +355,8 @@
         min-height: 575px;
     }
 }
+.edited{
+	width: 100%;
+  padding-left: 80%;
+  padding-top: 5%;
+}
