@@ -65,6 +65,12 @@ i:before {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
 }
+.edited{
+	width: 100%;
+  padding-left: 80%;
+  padding-top: 5%;
+}
+
 /* Main Menu Area css
 ============================================================================================ */
 .main_menu_area {
@@ -560,11 +566,7 @@ i:before {
   color: #fff;
 }
 
-.edited{
-	width: 100%;
-  padding-left: 80%;
-  padding-top: 5%;
-}
+
 
 
 
