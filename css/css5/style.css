@@ -98,7 +98,7 @@ font-family: verdena;
 
 
 /* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 900px) {
   div.viki1 h2{
     position:relative;
     color: black;
