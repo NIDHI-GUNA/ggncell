@@ -1,0 +1,376 @@
+.head {
+padding-top: 30px;
+padding-bottom: 30px;
+}
+
+.head img {
+margin: 0 auto;
+width: 1100px;
+height: 700px;
+}
+		
+.head p {
+font-family: "Stoke", sans-serif;
+text-align: center;
+font-size: 35px;
+font: bold;
+}
+.kimm h3{
+font-size: 8vw;
+font-family: verdena;
+ margin-top: -980px;
+ margin-left: 200px;
+  padding-top: 50px;"
+  position: relative;
+  text-decoration: underline;
+}
+
+.figg{
+	float: right;
+	margin-right: 100px;
+	margin-top: -80px;
+}
+
+@media only screen and (max-device-width: 1366px) {
+   .bgimg-1, .bgimg-2, .bgimg-3{
+    background-attachment: scroll;
+  }
+}
+
+
+@media screen and (max-width: 900px) {
+  div.kimm{
+	  line-height:1.6;
+    width: 350px;
+    margin-top: -1000px;
+    margin-left: -10px;
+	  margin-bottom:-50px;
+  }
+}
+@media screen and (max-width: 600px) {
+  div.kimm h3{
+    font-size: 25px;
+    top: 725px;
+    width: 100%;
+    left: -155px;
+    position: absolute;
+  }
+}
+@media screen and (max-width: 900px) {
+  figure.figg{
+    margin-top: -20px;
+    margin-right: 45px;
+	  margin-left:20px;
+  }
+}
+
+
+
+
+.about-mits{
+	float: right;
+	margin-left: 30px;
+}
+
+.viki h1{
+		position: relative;
+		top: -780px;
+    font-size: 8vw;
+    padding-left: 550px;
+		font-family: colonna MT;
+		color: black;
+		text-decoration: underline;
+	}
+  .viki1 h2{
+    position:relative;
+    color: white;
+    font-family: Tw Cen MT;
+    font-size: 2.5vw;
+    font-style: italic;
+    width: 850px;
+    top: -750px;
+    line-height: 1.6;
+    left: 630px;
+
+  }
+
+
+
+
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+@media screen and (max-width: 600px) {
+  div.viki1 h2{
+    position:relative;
+    color: black;
+    font-family: Tw Cen MT;
+    font-size: 25px;
+    font-style: italic;
+    line-height: 1.6;
+    width: 330px;
+    left: 40px;
+  }
+}
+
+@media  (max-width: 900px) {
+  div.viki h1{
+    top: -800px;
+    font-size: 50px;
+    padding-left: 50px;
+    position: relative;
+    font-family: colonna MT;
+    color: black;
+    text-decoration: underline;
+  }
+}
+
+
+
+
+
+
+.cd-slider-nav {
+  text-align: center;
+  margin-bottom:0px;
+  z-index: -5px;
+}
+
+.cd-slider-nav ul {
+  padding: 0;
+  margin: 0;
+}
+
+.cd-slider-nav ul li {
+  display: inline-block;
+  position: relative;
+  margin:55px 27px;
+}
+
+.cd-slider-nav ul li a {
+  text-decoration: none;
+}
+
+.cd-slider-nav ul li h6 {
+  font-size: 14px;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 400;
+  color: #fff;
+  margin-top: 2px;
+}
+
+.cd-slider-nav ul .selected h6 {
+  color: black;
+  text-decoration: none;
+}
+.cd-slider-nav .image-icon {
+  margin: 0 auto;
+  margin-bottom: 15px;
+  display: block;
+  width: 80px;
+  height: 80px;
+  line-height: 80px;
+  border-radius: 50%;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  background-color: #ffbb05;
+}
+
+.cd-slider-nav .image-icon:hover {
+  background-color: #fff;
+  -moz-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  -webkit-transition: all 0.2s linear;
+}
+
+
+
+
+
+
+.sss h1{
+		position: absolute;
+		top: 2900px;
+		left: 400px;
+		color:#696969;
+		font-family: colonna MT;
+		text-decoration: underline;
+
+	}
+@media screen and (max-width: 900px) {
+  div.sss h1{
+    position: relative;
+    top:-600px;
+    left: 120px;
+    color:#696969;
+    font-family: colonna MT;
+    text-decoration: underline;
+  }
+}
+
+
+.vimi{
+			position: absolute;
+			width: 100%;
+			max-width: 600px;
+			margin-left:818px;
+			margin-top: -500px;
+			height: auto;
+		}
+	@media screen and (max-width: 600px) {
+  div.vimi{
+    margin-top: -530px;
+    right:0px;
+    margin-right: -50px;
+    max-width: 300px;
+  }
+}
+
+.vimi{
+	-webkit-transform:rotate(334deg);  
+  -moz-transform: rotate(334deg);  
+  -ms-transform: rotate(334deg);  
+  -o-transform: rotate(334deg);  
+  transform: rotate(334deg);  
+}
+
+
+
+	.sas h2{
+		color:#696969;
+		position: relative;
+    font-family: Tw Cen MT;
+    font-size: 3.2vw;
+    top: -400px;
+    width: 700px;
+    left: 100px;
+    font-style: italic;
+  
+		}
+
+
+@media screen and (max-width: 900px) {
+  div.sas h2{
+    color:#696969;
+    position: relative;
+    font-family: Tw Cen MT;
+    font-size: 20px;
+    top: -580px;
+    width: 250px;
+    left: 30px;
+    font-style: italic;
+  
+  }
+}
+
+
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+
+
+.gl{
+	background: transparent;
+	box-sizing: border-box;
+	padding: 10px;
+	padding-top: 25px;
+	
+}
+@media screen and (min-width: 901px) {
+  section.gl {
+    margin-top:250px;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+}
+
+.glow{
+	font-family: Segoe Script; 
+	font-style: italic;
+	font-size: 10vw;
+  	color: white;
+  	text-align: center;
+  	-webkit-animation: glow 1s ease-in-out infinite alternate;
+  	-moz-animation: glow 1s ease-in-out infinite alternate;
+  	animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff; 
+  }
+  
+  to {
+    text-shadow: 0 0 20px #FFA500, 0 0 20px #FFA500, 0 0 20px #FFA500, 0 0 20px #FFA500, 0 0 20px #FFA500, 0 0 20px #FFA500, 0 0 20px #F0F8FF;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  section.gl{
+    margin-top: 100px;
+    margin-bottom: 20px;
+    width:100%;
+  }
+}
+
+.edited{
+	width: 100%;
+  padding-left: 80%;
+  padding-top: 5%;
+}
+
+
+
+
+ .footer_area .footer_social 
+
+a:hover{
+background:-webkit-linear-gradient(90deg, #1345e6 0%, #ed239f 100%);
+background:-moz-linear-gradient(90deg, #1345e6 0%, #ed239f 100%);
+background:-o-linear-gradient(90deg, #1345e6 0%, #ed239f 100%);
+background:linear-gradient(90deg, #1345e6 0%, #ed239f 100%)
+}
+
+.footer_area{
+padding-top:30px !important;
+padding-bottom:50px !important;
+background-image:none !important;
+background-color:#fcf8ff
+}
+
+.footer_area .col-sm-6{margin-bottom:30px}
+.footer_area .footer_inner{margin-bottom:-30px}
+
+
+.footer_area .f_title{margin-bottom:20px}
+.footer-bottom{text-align:center}
+.footer-bottom .footer-social{text-align:center;margin-top:15px}
+
+.footer_area{background:#021017;padding:120px 0;position:relative}
+@media (max-width: 1024px){.footer_area{padding:60px 0}}
+.footer_area .footer_logo{text-align:center}
+
+.footer_area .footer_social{text-align:center;margin:5px 0px 30px}
+
+.footer_area .footer_social a{
+display:inline-block;
+width:45px;
+height:45px;
+line-height:45px;
+text-align:center;
+background:#ffffff;
+border-radius:36px;
+color:#05364d;
+font-size:16px;
+margin-right:12px;
+-webkit-transition:all 0.4s ease 0s;
+-moz-transition:all 0.4s ease 0s;
+-o-transition:all 0.4s ease 0s;
+transition:all 0.4s ease 0s
+}
+
+.footer_area .footer_social a:last-child{margin-right:0px}
+
+.footer_area .footer_social a:hover{color:#ffffff}
+
+.footer_area .footer_bottom{text-align:center}.footer_area .footer_bottom p{margin-bottom:0}
+
+
