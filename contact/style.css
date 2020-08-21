@@ -59,6 +59,12 @@ i:before {
 .l_title img {
   padding-bottom: 30px;
 }
+
+@media screen and (max-width: 600px){
+  .l_title img{
+    width: 100%;
+  }
+}
 .l_title h2 {
   font-size: 48px;
   color: #0b1033;
